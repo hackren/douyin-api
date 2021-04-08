@@ -326,7 +326,7 @@ except UcError as e:
 该项目是通过Unicron来实现的, Unicorn 是一款非常优秀的跨平台模拟执行框架, 通过上帝视角来调试和调用二进制代码, 几乎可以很清晰发现反调试和检测手段, 而Unicorn的应用绝不仅仅只是个虚拟机, 可以实现很多骚操作, 再次感谢QEMU, Unicron, AndroidNativeEmu等等这些开源大神, 是这些人的分享精神推进了整个圈子的技术迭代。<br>
 <br>
 
-> 更多短视频数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
-
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

@@ -1,9 +1,11 @@
 # 抖音数据采集教程，unicorn 解决 OLLVM 字符串混淆通用方法
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 
 
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。<br>
 <br>虽然是通用方法，但是要了解 so 加载流程、汇编基础、java基础才可以使用哦～
 > 这里用的基于 unicorn 的 androidEmu
 

@@ -139,10 +139,8 @@ public class JniDispatch128 extends AbstractJni {
 运行main方法即可查看生成出来的xgorgon了<br>![image.png](https://cdn.nlark.com/yuque/0/2020/png/97322/1607648196196-72cbdb4f-b95d-4feb-8c41-a1d5d3db2a20.png#align=left&display=inline&height=84&margin=%5Bobject%20Object%5D&name=image.png&originHeight=168&originWidth=692&size=53123&status=done&style=none&width=346)<br>
 <br>
 
->
-> TiToData：专业的短视频、直播数据接口服务平台
-> 
-> 更多信息请联系： [TiToData](https://www.titodata.com?from=douyinarticle)
-> 
-> 覆盖主流平台：抖音，快手，小红书，TikTok，YouTube
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

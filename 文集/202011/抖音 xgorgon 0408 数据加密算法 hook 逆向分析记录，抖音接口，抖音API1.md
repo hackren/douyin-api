@@ -110,8 +110,8 @@ Java.perform(function() {
 ---
 
 
-#### TiToData：专业的短视频数据接口服务平台。
 
-#### 更多信息请联系： [TiToData](https://www.titodata.com?from=douyinarticle)
-
-<br />覆盖主流平台：抖音，快手，小红书，TikTok，Zynn，YouTube，1688，拼多多，淘宝，美团，饿了么，淘宝，微博
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

@@ -550,7 +550,8 @@ Java.perform(function () {
 ## 结语
 本篇咱们学习了非常实用的API，如Interceptor对象对so层导出库函数拦截、NativePointer对象的指针操作、NativeFunction对象的实例化so函数的使用等都是当前灰常好用的函数~建议童鞋了多多尝试~<br>
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

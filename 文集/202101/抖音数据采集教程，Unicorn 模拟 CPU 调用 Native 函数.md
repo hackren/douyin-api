@@ -1,9 +1,10 @@
 # 抖音数据采集教程，Unicorn 模拟 CPU 调用 Native 函数
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 
 
 # 接口
 **内存相关**

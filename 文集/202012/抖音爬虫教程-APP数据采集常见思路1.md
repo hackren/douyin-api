@@ -116,8 +116,8 @@ APP自动识别你的运行环境进行屏蔽，最厉害的还是某信，连�
 Apktool，dex2jar，jd-gui-windows<br>Jadx-gui<br>能直接反编译dex文件，方便好用<br>JD-GUI<br>需要将dex文件转到jar文件，可以跳转函数<br>JEB<br>用的较少<br>**3.hook 工具**<br>Xposed<br>Frida<br>
 <br>
 
->
-> [TiToData](https://www.titodata.com?from=douyinarticle)：专业的短视频、直播数据接口服务平台，网址： [TiToData](https://www.titodata.com?from=douyinarticle)
-> 
-> 覆盖主流平台：抖音，快手，小红书，TikTok，YouTube
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

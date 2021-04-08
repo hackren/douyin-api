@@ -1,7 +1,8 @@
-> 短视频、直播数据实时监测采集服务，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
-
+> 
 
 
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/97322/1616290165398-319d22cd-42fa-48a4-99db-96640ceb49c7.png#align=left&display=inline&height=130&margin=%5Bobject%20Object%5D&name=image.png&originHeight=259&originWidth=468&size=152085&status=done&style=none&width=234)

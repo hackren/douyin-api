@@ -71,7 +71,8 @@ IDAPro 7.0 调试工具Windows版本<br>IDA Pro是目前最优秀的静态逆向
 ### Unidbg ：java Hook 框架
 Unidbg 能在pc端直接调用so文件中的函数<br>下载链接： [https://github.com/zhkl0228/unidbg](https://github.com/zhkl0228/unidbg)<br>
 
-> 更多短视频数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

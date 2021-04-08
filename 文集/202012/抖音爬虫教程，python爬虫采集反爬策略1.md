@@ -117,6 +117,8 @@ print(r.text)
 - 有cookie的时候触发防爬虫robotcheck的可能性小很多，触发的机制个人猜测是有叠加效应的，即一次使用同一个ip+header短时间内访问多次(1秒内访问至少3次以上)是不会触发robotecheck的，大概在积累了8到9次的短时间多访问（理由是上面很多实验都是在第9个请求后开始出现block），才会激发。而这个忍耐度在有cookie的时候会放得更宽。<br>**所以我们在爬取某网站时，最好要做到IP轮询变换，cookie会话最好也要有，再来就是频率不要太快太频，只要控制好个度，我相信被反爬的概率会大大降低。**
 
 
+
 >
-> 抖音，快手，小红书数据采集接口，文档地址： [TiToData](https://www.titodata.com?from=douyinarticle)
->
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

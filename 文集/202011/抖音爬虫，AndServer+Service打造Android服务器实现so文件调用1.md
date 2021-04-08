@@ -198,8 +198,9 @@ public class NetUtils {
 # 申请权限，启动 App
 最后一步就是为 app 申请网络权限了<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580749-b840b8a8-27e2-4ddb-8bf4-539ccd1f7be6.png#align=left&display=inline&height=561&margin=%5Bobject%20Object%5D&originHeight=561&originWidth=1125&size=0&status=done&style=none&width=1125)<br />随后连接我们的手机，运行项目，测试一下，点击开启服务<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580684-dd5f7c4e-017f-4300-9d34-d68d7e946552.png#align=left&display=inline&height=591&margin=%5Bobject%20Object%5D&originHeight=591&originWidth=348&size=0&status=done&style=none&width=348)<br />看下 AndroidStudio 日志<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580691-767d7188-fece-48b5-80ec-b758d20b3d9e.png#align=left&display=inline&height=106&margin=%5Bobject%20Object%5D&originHeight=106&originWidth=552&size=0&status=done&style=none&width=552)<br />好像一切正常，在浏览器访问下试试（ ip 就是 App 中显示的 ip 地址）<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580713-627b0a22-5c9e-4db2-837a-1b996f33d673.png#align=left&display=inline&height=224&margin=%5Bobject%20Object%5D&originHeight=224&originWidth=768&size=0&status=done&style=none&width=768)<br />如图正常访问到了我们想要的内容<br />回过头来说下 Service，打开我们手机的设置，找到应用程序管理-运行中的服务（手机不同，方式不同）<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580730-d4f9d4a2-7f6c-45dc-8a33-f414f58e2f84.png#align=left&display=inline&height=581&margin=%5Bobject%20Object%5D&originHeight=581&originWidth=345&size=0&status=done&style=none&width=345)<br />可以看到我们的程序，运行了一个服务，这个服务就是咱们编码的 MyService<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580703-a50f2777-b7cb-4dc1-83b5-a82e1badcfd0.png#align=left&display=inline&height=597&margin=%5Bobject%20Object%5D&originHeight=597&originWidth=342&size=0&status=done&style=none&width=342)<br /> <br />接下来杀掉该 App进程，再次查看运行中的服务<br />![](https://cdn.nlark.com/yuque/0/2020/png/97322/1607217580709-0a6db750-bb83-402c-8481-f2bc0bd94b1a.png#align=left&display=inline&height=613&margin=%5Bobject%20Object%5D&originHeight=613&originWidth=347&size=0&status=done&style=none&width=347)<br />我这里在权限管理设置了自动运行，可以保持服务的运行。（这个地方还是根据系统有大小差异）<br />至此使用 App 起 http 服务调 so 就完成了<br />
 <br />——————————————————————————————————————————
-<a name="9794cc28"></a>
-#### TiToData：专业的短视频、直播数据接口服务平台。
-<a name="1c5f89ff"></a>
-#### 更多信息请联系： [TiToData](https://www.titodata.com?from=douyinarticle)
-覆盖主流平台：抖音，快手，小红书，TikTok，YouTube
+
+
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

@@ -1,9 +1,10 @@
 # 直播电商数据案例分析，两年出圈的colorkey珂拉琪，再次凭借唇釉玩转直播？
 
-> 短视频、直播数据实时监测采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
-
+> 
 
 
 成立2年、签约顶流唱跳偶像“孟美岐”的新锐国产彩妆品牌colorkey珂拉琪，早在2020年抖音短视频营销就做得风生水起，其**空气唇釉多次成为抖音热销爆款**。

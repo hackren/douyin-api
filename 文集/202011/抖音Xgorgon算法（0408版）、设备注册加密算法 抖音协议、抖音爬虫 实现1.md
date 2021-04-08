@@ -19,8 +19,8 @@ Xgorgon：040850000810d1290a78de2cbd25321d8cad6e072903b17e0700
 ```
 搞定，每次可注册一个新设备号。<br />
 <br />——————————————————————————————————————————
-<a name="9794cc28"></a>
-#### TiToData：专业的短视频、直播数据接口服务平台。
-<a name="1c5f89ff"></a>
-#### 更多信息请联系： [TiToData](https://www.titodata.com?from=douyinarticle)
-覆盖主流平台：抖音，快手，小红书，TikTok，YouTube
+
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

@@ -1,9 +1,11 @@
 # 抖音数据采集教程，unidbg Ollvm 字符串加密解析
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 
 
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。<br>
 <br>原理： 利用 unicorn 的 mem hook 在内存加载完 so 后，dump 出纯净的数据。<br>有两种方法：
 
 ## 核心方法

@@ -142,7 +142,8 @@ packagingOptions {
 ## 感谢&参考资料
 [sekiro实践](https://www.jianshu.com/p/6b71106c45eb?from=timeline)<br>
 
-> 更多短视频数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 

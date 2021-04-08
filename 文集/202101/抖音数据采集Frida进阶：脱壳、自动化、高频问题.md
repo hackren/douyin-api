@@ -1,9 +1,10 @@
 # 抖音数据采集Frida进阶：脱壳、自动化、高频问题
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 
 
 ## 1 Frida用于脱壳
 安全工程师在拿到应用评测的任务之后，第一件事情是抓到他的收包发包，第二件事情应该就是拿到它的`apk`，打开看看里面是什么内容，如果不幸它加了壳，可能打开就是这样的场景，见下图，什么内容都看不到，这时候就要首先对它进行脱壳。<br>![image.png](https://cdn.nlark.com/yuque/0/2021/png/97322/1611403283604-afdb354c-7ec3-4bd7-a500-b48088714aed.png#align=left&display=inline&height=361&margin=%5Bobject%20Object%5D&name=image.png&originHeight=722&originWidth=812&size=364090&status=done&style=none&width=406)<br>壳的种类非常多，根据其种类不同，使用的技术也不同，这里稍微简单分个类：

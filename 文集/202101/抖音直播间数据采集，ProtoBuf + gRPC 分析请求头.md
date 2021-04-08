@@ -1,9 +1,10 @@
 # 抖音直播间数据采集，ProtoBuf + gRPC 分析请求头
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
 
-
-<br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+>
+> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
+> 
 
 # 概念
 > Protobuf是Google protocol buffer的简称，是一种语言中立、平台无关、易于扩展的结构化数据序列化技术，可用于数据传输、存储等领域。
