@@ -6,14 +6,12 @@
 
 ---
 
-#### TiToData：专业的短视频数据采集、处理平台。
-#### 更多信息请联系： [TiToData](https://www.titodata.com/about?from=douyinapi)
+#### TiToData：短视频数据采集、分析平台。
 
 ```
 海量数据采集
 每天为客户采集5亿条数据
-覆盖主流平台：TikTok，Zynn，YouTube，抖音，快手，1688，小红书，拼多多，淘宝，美团，饿了么，淘宝，微博
-联系vx：ifuxing123
+联系微信：ifuxing123
 ```
 
 
@@ -83,13 +81,12 @@
 
 
 # 视频列表接口示例如下：
-更多接口文档请联系客服获取：[TiToData](https://www.titodata.com/about?from=douyinapi)
 
 ### 请求地址
 
 
 ```http
-GET http://api2.titodata.com/api/video/lists
+GET http://api2.主机地址.com/api/video/lists
 ```
 
 
