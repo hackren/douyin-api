@@ -3,7 +3,7 @@
 
 
 >
-> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 短视频、直播电商数据采集、分析服务，请联系微信：ifuxing123
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
 > 
 
@@ -319,7 +319,7 @@ $ frida -U -f com.whatsapp -l raptor_frida_android_trace_fixed.js --no-pause
 ```
 如图所示`*!open*`根据正则匹配到了`openlog`、`open64`等导出函数，并`hook`了所有这些函数，打印出了其参数以及返回值。接下来想要看哪个部分，只要扔到jadx里，静态“分析”一番，自己随便翻翻，或者根据字符串搜一搜。比如说我们想要看上图中的`com.whatsapp.app.protocol`包里的内容，就可以设置`trace("com.whatsapp.app.protocol")`。可以看到包内的函数、方法、包括重载、参数以及返回值全都打印了出来。这就是`frida`脚本的魅力。当然，脚本终归只是一个工具，你对`Java`、安卓`App`的理解，和你的创意才是至关重要的。接下来可以搭配`Xposed module`看看别人都给`whatsapp`做了哪些模块，`hook`的哪些函数，实现了哪些功能，学习自己写一写。
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
+> 短视频、直播数据实时采集接口，请联系微信：ifuxing123
 
 
 <br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。

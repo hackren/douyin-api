@@ -2,7 +2,7 @@
 
 
 >
-> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 短视频、直播电商数据采集、分析服务，请联系微信：ifuxing123
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
 > 
 
@@ -339,7 +339,7 @@ function hook_overload_7() {
 ### 结语
 在这章中我们学习了HOOK Java层的一些函数，如拦截普通函数、构造函数、以及修改成员变量以及函数返回值。下一篇中我们来枚举所有的类、所有的方法重载、所有的子类以及RPC远程调用Java层函数。<br>
 
-> 短视频、直播数据实时采集接口，请查看文档： [TiToData](https://www.titodata.com?from=douyinarticle)
+> 短视频、直播数据实时采集接口，请联系微信：ifuxing123
 
 
 <br>免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。

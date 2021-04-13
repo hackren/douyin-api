@@ -21,6 +21,6 @@
 这时候可能会有同学要问了，怎么样知道APP用的是哪个HTTP客户端？又怎么样快速定位混淆后的检测方法位置呢？<br />很简单，我们先关掉破解工具，连上代理然后抓个包看看混淆版本APP的请求。<br />![image.png](https://cdn.nlark.com/yuque/0/2020/png/97322/1607219048048-46373907-95e6-4bd0-890b-9e362e6a393c.png#align=left&display=inline&height=540&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1080&originWidth=2780&size=1320537&status=done&style=none&width=1390)<br />抓包查看请求<br />![image.png](https://cdn.nlark.com/yuque/0/2020/png/97322/1607219066215-5d1276e1-38c7-408d-acbe-458702b53e55.png#align=left&display=inline&height=125&margin=%5Bobject%20Object%5D&name=image.png&originHeight=250&originWidth=850&size=203676&status=done&style=none&width=425)<br />User-Agent部分<br />和平时遇到SSL Pinning的情况一样，这里只会抓到一个CONNECT请求，注意右边的headers，从User-Agent中可以看出这个APP使用的是okhttp3，那么我们在混淆后的代码中定位检测部分代码的位置时，就只需要对照着okhttp3的原始代码来找就好了（其他HTTP客户端同理）。当然了，也不排除有些APP会把User-Agent改掉，如果从User-Agent上看不出来的话，那就看一下反编译出来的源代码部分结构，看看有没有像okhttp3之类的这种特别明显的HTTP客户端的名字，有的话就把它干掉就好了。<br />
 
 >
-> 短视频、直播电商数据采集、分析服务，请查看文档： [TitoData](https://www.titodata.com?from=douyinarticle)
+> 短视频、直播电商数据采集、分析服务，请联系微信：ifuxing123
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
 > 

@@ -1,6 +1,6 @@
 # DouyinSDK  抖音SDK 抖音数据采集 抖音直播数据
 
-> 接口参数、返回示例请参考文档：[抖音api](https://www.titodata.com/)
+> 接口参数、返回示例请联系微信：ifuxing123
 > 
 > Github仓库：[DouyinSDK](https://github.com/Video-Hub/douyin-sdk)
 
