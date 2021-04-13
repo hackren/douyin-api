@@ -4,7 +4,7 @@
 ## 抖音直播数据、抖音数据采集、抖音直播监控
 
 #### TiToData：专业的短视频数据采集、处理平台。
-> 更多信息请联系： [TiToData](https://www.titodata.com/about?from=shipinapi)
+> 更多信息请联系微信：ifuxing123
 ```
 海量数据采集
 每天为客户采集5亿条数据
