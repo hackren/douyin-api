@@ -175,6 +175,6 @@ $ frida -U -f com.whatsapp -l raptor_frida_android_trace_fixed.js --no-pause
 
 
 >
-> 短视频、直播电商数据采集、分析服务，请联系微信：ifuxing123
+> 短视频、直播电商数据采集、分析服务，请联系微信：1764328791
 > 免责声明：本文档仅供学习与参考，请勿用于非法用途！否则一切后果自负。
 > 
