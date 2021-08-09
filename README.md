@@ -8,8 +8,6 @@
 ```
 有任何问题可交流学习, 微信: 1764328791
 ```
-![二维码](https://docimg4.docs.qq.com/image/3y0BC9Ej41jkq9eLmGFhXw?w=674&h=896)
-
 
 
 # 接口列表：
